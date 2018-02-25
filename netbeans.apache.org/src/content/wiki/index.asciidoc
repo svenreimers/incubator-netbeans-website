@@ -522,7 +522,7 @@
 - link:DevFaqWindowsAndDialogs.asciidoc[Windows and dialogs]
 - link:DevFaqWindowsComponentHowTo.asciidoc[I want to show my own component(s) in the main window - where do I start?]
 - link:DevFaqWindowsGeneral.asciidoc[What is the window system]
-- [[DevFaqWindowsInternals|How does the window system _really_ work?]]
+- link:DevFaqWindowsInternal[How does the window system _really_ work?]
 - link:DevFaqWindowsMatisse.asciidoc[How do I use Matisse/GroupLayout (new form editor/layout manager in 5.0) in my windowing system components]
 - link:DevFaqWindowsMaximizeViaCode.asciidoc[How to maximize a TopComponent?]
 - link:DevFaqWindowsMode.asciidoc[What are Modes?]
